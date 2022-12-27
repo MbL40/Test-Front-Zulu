@@ -8,11 +8,18 @@
 ```bash
 npm i 
 ```
+Si se requiere forzar la instalación de alguna dependencia puede ejecutar 
+
+```bash
+npm i --force
+```
+
 ## Run Project
 
 ```bash
 npm run dev 
 ```
+La aplicación se abrirá en http://localhost:5173/
 
 ## Consideraciones
 
